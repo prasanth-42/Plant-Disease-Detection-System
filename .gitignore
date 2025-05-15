@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env/
+.venv/
+
+# Model and Data
+*.h5
+*.keras
+*.hdf5
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Logs
+*.log
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Machine Learning
+*.pkl
+*.joblib
+
+# Streamlit
+.streamlit/
+
+# Screenshots and temporary files
+screenshots/
+*.tmp
